@@ -1,5 +1,5 @@
-INSERT INTO product (id, name, price)
+INSERT INTO product (name, price)
 VALUES
-    (1, 'Apple', 9.99),
-    (2, 'Banana', 19.99),
-    (3, 'Garlic', 29.99);
+    ('Apple_1', 9.99),
+    ('Banana', 19.99),
+    ('Garlic', 29.99);

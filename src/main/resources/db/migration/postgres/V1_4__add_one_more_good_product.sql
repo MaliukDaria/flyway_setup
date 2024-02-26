@@ -1,3 +1,3 @@
-INSERT INTO product (id, name, price)
+INSERT INTO product (name, price)
 VALUES
-    (7, 'One more good product', 1.99);
+    ('One more good product q', 1.99);

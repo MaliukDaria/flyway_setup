@@ -1,3 +1,3 @@
 INSERT INTO product (name, price)
 VALUES
-    ('Good product', 1.99);
+    ('Super product', 2.99);
